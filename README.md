@@ -4,4 +4,4 @@ We hypothesized that participants would place higher value on feedback when comp
 The experiment is a word association task where participants memorized a series of word pairs.
 This task also has a willingness to pay component, where participants had the option of paying for feedback. 
 Money spent on feedback was our main DV of interest, while physical environment was our main IV.
-Participants memorized 
+
